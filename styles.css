@@ -1,0 +1,22 @@
+body {
+    background-color:antiquewhite
+}
+
+
+p {
+    color:green;
+    font: weight 500px;
+    font-size: 21px;
+}
+
+ol {
+    color:green;
+    font: weight 500px;
+    font-size: 21px;
+}
+
+ul {
+    color:green;
+    font: weight 500px;
+    font-size: 21px;
+}
